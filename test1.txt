@@ -1,3 +1,4 @@
 This is test one
-this is test seconde line
+this is test second line
 this is feature test one
+logo alignment issue is solving 
